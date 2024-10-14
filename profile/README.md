@@ -1,6 +1,6 @@
 
 ## Quality Computer Experience 
-QC𝕏 is a research-first applied artificial intelligence startup working on the intersection of nature and computation. 
+QC𝕏 is an applied research-first artificial intelligence startup working on the intersection of nature and computation. 
 
 Connect with our team 
 https://tally.so/r/wkWqkd
