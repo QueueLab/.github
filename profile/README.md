@@ -1,5 +1,5 @@
 
-## Quality Computer Experience 
+## Quality Computer Experiences
 QCX is an applied research-first artificial intelligence startup working on the intersection of nature and computation. 
 
 
