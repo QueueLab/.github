@@ -1,6 +1,6 @@
 
 ## Quality Computer Experiences
-Queuelab is an applied research-first artificial intelligence laboratory working on the intersection of nature and computation. 
+Queuelab is an applied research-first artificial general intelligence laboratory working on the intersection of nature and computation. 
 
 [Sponsor QCX](https://www.paypal.me/queuenorth)
  
