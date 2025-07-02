@@ -3,10 +3,12 @@
 Queuelab is an applied research-first artificial general intelligence laboratory working on the intersection of nature and computation. 
 
 [Sponsor QCX](https://www.paypal.me/queuenorth)
- 
-![iss070-e-51989-lrg](https://github.com/user-attachments/assets/41090b49-00fc-430e-b804-eb7287a79eb6)
+
+![Screenshot from 2025-07-02 08-28-59](https://github.com/user-attachments/assets/40853db5-e178-4c1c-9c69-ea697d85a35d)
+
 
 credits NASA
+
 
 
 
